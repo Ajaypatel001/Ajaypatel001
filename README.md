@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ajay Patel
 
-### B.Tech Graduate (Artificial Intelligence & Data Science) | Python & ML Enthusiast  
+### B.Tech Graduate (Artificial Intelligence & Data Science) | DevOps & Cloud Learner  
 
-Curious learner • Problem solver • Growing Python developer  
+Curious learner • Problem solver • Exploring Cloud & DevOps  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:yourmail@gmail.com)
@@ -12,43 +12,36 @@ Curious learner • Problem solver • Growing Python developer
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🐍 Interested in **Python, Machine Learning & Data Analytics**  
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**  
+- 🌐 Interest in **Web Technologies, Cloud & DevOps**  
+- ☁️ Currently learning **AWS & Infrastructure as Code**  
+- 🐧 Comfortable with **Linux basics & CLI tools**  
 - 📍 Based in India  
-- 🚀 Actively learning and improving every day  
+- 🚀 Learning step-by-step and improving every day  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-- Python  
-- C  
-- C++  
-
-### 🌐 Web & Backend
+### 🌐 Web Technologies
 - HTML  
 - CSS  
-- JavaScript  
-- React  
-- Django  
-- Flask  
+- JavaScript (Basics)  
 
-### 📊 Machine Learning & Data Analytics
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- TensorFlow  
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, IAM – Basics)  
+- DevOps Fundamentals  
+- Terraform / OpenTofu (Basics)  
+- CI/CD Concepts (GitHub Actions – Basics)  
 
-### 🧰 Tools & Platforms
+### 🐧 Operating System
+- Linux (Basic commands, file system, permissions)  
+
+### 🔧 Tools & Platforms
 - Git  
 - GitHub  
 - VS Code  
-- Jupyter Notebook  
-- MySQL  
-- Kaggle  
+- MySQL (Basics)  
 
 ---
 
@@ -60,4 +53,4 @@ Curious learner • Problem solver • Growing Python developer
 
 ---
 
-✨ *Learning consistently, improving skills, and growing as a developer.*
+✨ *Currently focusing on Cloud, DevOps fundamentals, and real-world hands-on practice.*
