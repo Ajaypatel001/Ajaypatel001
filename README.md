@@ -6,7 +6,7 @@ Curious learner • Problem solver • Growing Python developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:yourmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ajaypatel)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Ajaypatel001)
 
 ---
 
