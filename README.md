@@ -26,7 +26,9 @@ Curious learner • Problem solver • Exploring Cloud & DevOps
 ### 🌐 Web Technologies
 - HTML  
 - CSS  
-- JavaScript (Basics)  
+- JavaScript (Basics)
+- react
+- Node.js  
 
 ### ☁️ Cloud & DevOps
 - AWS (EC2, S3, IAM – Basics)  
@@ -35,7 +37,8 @@ Curious learner • Problem solver • Exploring Cloud & DevOps
 - CI/CD Concepts (GitHub Actions & GitLab)  
 
 ### 🐧 Operating System
-- Linux (Basic commands, file system, permissions)  
+- Linux (Basic shell commands, file handling)
+ 
 
 ### 🔧 Tools & Platforms
 - Git  
