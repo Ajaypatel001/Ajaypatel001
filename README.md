@@ -139,9 +139,24 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
-# 📈 Profile Views
+# 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/Ajaypatel001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajay-patel-622298318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ajaypatel830544@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=Ajaypatel001&style=for-the-badge&color=blue"/>
 
