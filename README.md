@@ -112,21 +112,7 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ajaypatel001&theme=default&background=FFFFFF&stroke=000000&ring=00C4FF&fire=00C4FF&currStreakLabel=000000"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaypatel001&theme=github"/>
-</p>
 
 <p align="center">
 
