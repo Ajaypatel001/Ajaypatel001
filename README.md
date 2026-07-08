@@ -159,9 +159,9 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ajaypatel001&style=for-the-badge&color=blue"/>
 </p>
-Thanks for visiting my profile!
----
 
+---
+###
 <div align="center">
 
 *"Code • Automate • Deploy • Repeat"* 🚀
