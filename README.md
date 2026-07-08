@@ -7,6 +7,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;DevOps+Engineer;CI%2FCD+Pipeline+Developer;Always+Learning+New+Technologies"/>
 
 </div>
+<p align="center">
+
+<a href="https://github.com/Ajaypatel001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajay-patel-622298318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ajaypatel830544@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
@@ -27,24 +42,6 @@
 💼 Looking for **DevOps Internship / Job**
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Ajaypatel001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ajay-patel-622298318/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ajaypatel830544@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 ---
 
