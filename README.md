@@ -122,9 +122,21 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
+# 📈 Ajay Patel's Contribution Graph
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaypatel001&theme=minimal&bg_color=FFFFFF"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ajaypatel001&theme=flat&row=2&column=4"/>
 
 </p>
 
@@ -151,12 +163,11 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ajaypatel001&style=for-the-badge&color=blue"/>
 </p>
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
 
 *"Code • Automate • Deploy • Repeat"* 🚀
 
