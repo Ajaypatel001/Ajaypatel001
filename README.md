@@ -24,24 +24,21 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+Cloud & DevOps enthusiast with a strong interest in building scalable, secure, and automated cloud infrastructure.
 
-🎓 **B.Tech Computer Science Engineering**
+🎓 B.Tech Computer Science Engineering Student
 
-☁️ Passionate about **Cloud & DevOps**
+☁️ Hands-on experience with AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, and Linux.
 
-🚀 Learning **AWS | Terraform | Kubernetes | Docker**
+🚀 Passionate about Infrastructure as Code (IaC), CI/CD pipelines, and Cloud Automation.
 
-🔧 Building **CI/CD Pipelines**
+📚 Continuously learning modern DevOps tools and best practices while building real-world projects.
+
+💼 Open to DevOps Internship and Entry-Level Cloud Engineer opportunities.
 
 📍 India
-
-📧 **Email:** **ajaypatel830544@gmail.com**
-
-💼 Looking for **DevOps Internship / Job**
-
----
 
 ---
 
