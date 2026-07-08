@@ -133,7 +133,7 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 # 🏅 Achievements
 
 - 🏆 **Hackfest 2026 – Naresh IT**: Developed and deployed an AI-enabled **"AgroWatch – Smart Farming with AI"** using AWS cloud services and DevOps tools with a CI/CD pipeline for scalable and automated deployment.
-- 📜 **MiltCloud – DevOps Certification, Naresh IT**: Completed a 6-month hands-on DevOps training program covering cloud infrastructure, containerization, and CI/CD automation practices.
+- 📜 **MultiCloud– DevOps Certification, Naresh IT**: Completed a 6-month hands-on DevOps training program covering cloud infrastructure, containerization, and CI/CD automation practices.
 
 ---
 
