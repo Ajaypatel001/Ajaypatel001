@@ -112,13 +112,6 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
-# 🏅 Achievements
-
-- 🏆 **Hackfest 2026 – Naresh IT**: Developed and deployed an AI-enabled **"AgroWatch – Smart Farming with AI"** using AWS cloud services and DevOps tools with a CI/CD pipeline for scalable and automated deployment.
-- 📜 **MiltCloud – DevOps Certification, Naresh IT**: Completed a 6-month hands-on DevOps training program covering cloud infrastructure, containerization, and CI/CD automation practices.
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -129,8 +122,6 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
-# 📈 Ajay Patel's Contribution Graph
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaypatel001&theme=github&bg_color=FFFFFF&color=000000&line=00C4FF&point=00C4FF"/>
@@ -139,15 +130,13 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajaypatel001&theme=flat&row=2&column=4"/>
-
-</p>
+- 🏆 **Hackfest 2026 – Naresh IT**: Developed and deployed an AI-enabled **"AgroWatch – Smart Farming with AI"** using AWS cloud services and DevOps tools with a CI/CD pipeline for scalable and automated deployment.
+- 📜 **MiltCloud – DevOps Certification, Naresh IT**: Completed a 6-month hands-on DevOps training program covering cloud infrastructure, containerization, and CI/CD automation practices.
 
 ---
+
 
 # 🌐 Connect With Me
 
@@ -170,12 +159,10 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ajaypatel001&style=for-the-badge&color=blue"/>
 </p>
-
+Thanks for visiting my profile!
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 *"Code • Automate • Deploy • Repeat"* 🚀
 
