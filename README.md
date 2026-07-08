@@ -117,23 +117,10 @@ Cloud & DevOps enthusiast with a strong interest in building scalable, secure, a
 
 </p>
 
----
-
-# 📈 Ajay Patel's Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaypatel001&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajaypatel001&theme=algolia&row=2&column=4"/>
 
 </p>
 
